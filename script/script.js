@@ -6,4 +6,3 @@ for (let i = 0; i < 256; i++) {
     container.appendChild(square);
 }
 
-const gittest = 0;
