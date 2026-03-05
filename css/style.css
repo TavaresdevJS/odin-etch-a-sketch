@@ -19,8 +19,9 @@ main {
     width: 30px;
     height: 30px;
     border: 1px solid aqua;
+    background-color: magenta;
 }
 
 .square:hover {
-    background-color: black;
+    background-color: white;
 }
